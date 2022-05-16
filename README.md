@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubham8685
-- 👀 I’m interested in becoming fullstack web development
+- 👀 I’m interested in becoming fullstack web developer
 - 🌱 I’m currently learning HTML,Javascript,CSS
-- 💞️ I’m looking to collaborate on some font end projects which will allow me to practice my sskills.
+- 💞️ I’m looking to collaborate on some front end projects which will allow me to practice my skills.
 - 📫 How to reach me: discord:ohhhdeath#6804 email:ss485152@gmail.com
 
 <!---
